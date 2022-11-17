@@ -1,0 +1,5 @@
+{
+  "name": "pokemon-node-rest-api",
+  "packageManager": "yarn@3.3.0",
+  "private": true
+}

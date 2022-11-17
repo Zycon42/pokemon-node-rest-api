@@ -1,0 +1,17 @@
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Build artifacts
+/dist/
+
+# Secrets
+.env
+
+# misc
+.DS_Store
+*.pem
